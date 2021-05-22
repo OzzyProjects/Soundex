@@ -22,3 +22,5 @@ Works well with Debian/Ubuntu.
 No UTF-8 compatibility at this time (todo). 
 
 Only ascii and ISO Latin 1.
+
+Basically, it's only a little college project in NLP
